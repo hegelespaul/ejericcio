@@ -17,23 +17,5 @@
   },
   "bugs": {
     "url": "https://github.com/tdurieux/leboncoin-api/issues"
-  },
-  "dependencies": {
-    "lodash": "^4.17.15",
-    "nyc": "^15.1.0",
-    "request": "^2.88.0"
-  },
-  "devDependencies": {
-    "coveralls": "^3.1.0",
-    "mocha": "^10.1.0",
-    "should": "^13.2.3"
-  },
-  "keywords": [
-    "le bon coin",
-    "leboncoin",
-    "leboncoin.fr"
-  ],
-  "author": "Thomas Durieux",
-  "license": "MIT",
-  "readmeFilename": "README.md"
+  }
 }
